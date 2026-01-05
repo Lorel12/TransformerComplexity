@@ -1,0 +1,7 @@
+mon_modele_bert_sentiment/ 
+results/ 
+.ipynb_checkpoints/ 
+*.pth 
+*.bin 
+*.safetensors 
+__pycache__/ 
